@@ -19,6 +19,7 @@ function Navbar() {
     <nav className={nav ? 'nav active':'nav'}>
       <Link to="#" className='logo'>
         <img src={logo} alt="Gym logo" />
+      </Link>
         <input className='menu-btn' type="checkbox" id="menu-btn" />
         <label className='menu-icon' for='menu-btn'>
           <span className='nav-icon'></span>
@@ -30,7 +31,6 @@ function Navbar() {
           <li><Link to='#'>About</Link></li>
           <li><Link to='#'>Contact</Link></li>
         </ul>
-      </Link>
     </nav>
   );
 }
