@@ -4,7 +4,7 @@ function Header() {
 
   return (
     <header id="main">
-      <div className="header-heading">
+      <div className="header-heading name">
         <h2>STEP UP YOUR</h2>
         <h1><span>FITNESS</span> WITH US</h1>
         <p className="details"> Build You Body And Fitness With Professional Touch</p>
