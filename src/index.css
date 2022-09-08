@@ -415,7 +415,9 @@ nav .menu-btn,
 }
 
 .about-image img {
-  width: 600px;
+  width: 550px;
+  border-radius: 15px;
+  margin-top: 40px;
 }
 
 /* END About section */
