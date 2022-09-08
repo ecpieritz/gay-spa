@@ -307,6 +307,7 @@ nav .menu-btn,
   margin: 50px auto 20px;
   background-image: url('./images/home__offer.png');
   background-size: 100%;
+  background-repeat: no-repeat;
   padding-top: 350px;
 }
 
@@ -471,5 +472,28 @@ nav .menu-btn,
     width: 90%;
   }
 }
-
 /* END Contact section */
+
+/* START Footer */
+#footer{
+  background-color: #ffffff2d;
+  padding: 20px 80px;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.ft-socials {
+  margin-top: 15px;
+}
+
+.ft-socials a{
+  margin-right: 20px;
+}
+
+.ft-socials a img{
+  width: 40px;
+}
+/* END Footer */
+
