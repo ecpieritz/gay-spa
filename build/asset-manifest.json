@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gym-spa/static/css/main.55ee2faa.css",
+    "main.js": "/gym-spa/static/js/main.322cd316.js",
+    "static/media/home__banner.png": "/gym-spa/static/media/home__banner.ece159a73c291f4703e7.png",
+    "static/media/home__about.png": "/gym-spa/static/media/home__about.cce153b8246939222afb.png",
+    "static/media/home__offer.png": "/gym-spa/static/media/home__offer.80e12368ab2c2a57c111.png",
+    "static/media/icon__specific-muscle.svg": "/gym-spa/static/media/icon__specific-muscle.c0901dce601f9b6f62a9f4405d918dbd.svg",
+    "static/media/icon__flex-your-muscle.svg": "/gym-spa/static/media/icon__flex-your-muscle.74a2ad1890ec03ebe47772da6cca02f1.svg",
+    "static/media/icon__cardio-exercise.svg": "/gym-spa/static/media/icon__cardio-exercise.c05a48d21a27cb034c212b4254ec8b78.svg",
+    "static/media/icon__weight-lifting.svg": "/gym-spa/static/media/icon__weight-lifting.e413a9319dc580d7b2f20483a079cd2a.svg",
+    "index.html": "/gym-spa/index.html",
+    "main.55ee2faa.css.map": "/gym-spa/static/css/main.55ee2faa.css.map",
+    "main.322cd316.js.map": "/gym-spa/static/js/main.322cd316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ee2faa.css",
+    "static/js/main.322cd316.js"
+  ]
+}
