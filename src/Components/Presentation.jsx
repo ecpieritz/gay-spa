@@ -4,7 +4,6 @@ function Presentation() {
   return (
     <section id='presentation'>
       <div className='pr-heading'>
-        <img src="../images/home__offer.png" alt="" />
         <h1>A BIG <span>OFFER</span> FOR THIS SEASON</h1>
         <p className='details'>Lorem ipsum dolor sit amet consectetur adipisicing.
         </p>
