@@ -48,9 +48,9 @@ input {
 #main::before {
   position: absolute;
   content: "";
-  background: -moz-radial-gradient(center, ellipse cover, rgba(181, 8, 8, 0.38) 0%, rgba(0, 0, 0, 0.6) 100%);
-  background: -webkit-radial-gradient(center, ellipse cover, rgba(181, 8, 8, 0.38) 0%, rgba(0, 0, 0, 0.6) 100%);
-  background: radial-gradient(ellipse at center, rgba(181, 8, 8, 0.38) 0%, rgba(0, 0, 0, 0.6) 100%);
+  background: -moz-radial-gradient(center, ellipse cover, rgba(181, 106, 8, 0.38) 0%, rgba(0, 0, 0, 0.6) 100%);
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(181, 106, 8, 0.38) 0%, rgba(0, 0, 0, 0.6) 100%);
+  background: radial-gradient(ellipse at center, rgba(181, 106, 8, 0.38) 0%, rgba(0, 0, 0, 0.6) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#61b50808', endColorstr='#99000000', GradientType=1);
   top: 0;
   left: 0;
@@ -85,16 +85,16 @@ nav ul {
 }
 
 .active {
-  background-color: #FF1414;
+  background-color: #ffad14;
   color: #ffffff;
-  box-shadow: 5px 10px 30px rgba(198, 64, 64, 0.411);
+  box-shadow: 5px 10px 30px rgba(198, 129, 64, 0.411);
   transition: all ease 0.2s;
 }
 
 .active:hover {
   background-color: #000000;
   color: #ffffff;
-  box-shadow: 5px 10px 30px rgba(198, 64, 64, 0.411);
+  box-shadow: 5px 10px 30px rgba(198, 129, 64, 0.411);
   transition: all ease 0.2s;
 }
 
@@ -115,9 +115,9 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #FF1414;
+  background-color: #ffad14;
   color: #ffffff;
-  box-shadow: 5px 10px 30px rgba(255, 2, 2, 0.336);
+  box-shadow: 5px 10px 30px rgba(255, 145, 2, 0.336);
   transition: all ease 0.2s;
 }
 
@@ -140,7 +140,7 @@ nav .menu-btn,
 }
 
 .name span {
-  color: #FF1414;
+  color: #ffad14;
 }
 
 .name .details {
@@ -180,8 +180,8 @@ nav .menu-btn,
   justify-content: center;
   align-items: center;
   font-size: 1.4rem;
-  background-color: #FF1414;
-  box-shadow: 5px 10px 30px rgba(255, 2, 2, 0.336);
+  background-color: #ffad14;
+  box-shadow: 5px 10px 30px rgba(255, 145, 2, 0.336);
   border-radius: 5px;
   color: #ffffff;
 }
@@ -190,7 +190,7 @@ nav .menu-btn,
   background-color: transparent;
   transition: all ease 0.5s;
   color: #ffffff;
-  border: 2px solid #FF1414;
+  border: 2px solid #ffad14;
 }
 
 /* END Header */
@@ -247,8 +247,8 @@ nav .menu-btn,
 }
 
 .a-box:hover {
-  border: 1px solid #FF1414;
-  box-shadow: 2px 2px 12px rgba(184, 0, 0, 0.445);
+  border: 1px solid #ffad14;
+  box-shadow: 2px 2px 12px rgba(184, 110, 0, 0.445);
 }
 
 .a-b-text {
@@ -312,7 +312,7 @@ nav .menu-btn,
 }
 
 .pr-heading span {
-  color: #FF1414;
+  color: #ffad14;
 }
 
 .pr-heading .details {
@@ -344,8 +344,8 @@ nav .menu-btn,
   justify-content: center;
   align-items: center;
   font-size: 1.4rem;
-  background-color: #FF1414;
-  box-shadow: 5px 10px 30px rgba(255, 2, 2, 0.336);
+  background-color: #ffad14;
+  box-shadow: 5px 10px 30px rgba(255, 145, 2, 0.336);
   border-radius: 5px;
   color: #ffffff;
   margin: 10px auto;
@@ -355,7 +355,7 @@ nav .menu-btn,
   background-color: transparent;
   transition: all ease 0.5s;
   color: #ffffff;
-  border: 2px solid #FF1414;
+  border: 2px solid #ffad14;
 }
 
 /* END Presentation Section */
@@ -379,7 +379,7 @@ nav .menu-btn,
 
 .about-text h1 {
   font-size: 3rem;
-  color: #FF1414;
+  color: #ffad14;
   font-weight: 500;
   margin: 0px;
   padding: 0px;
@@ -400,11 +400,11 @@ nav .menu-btn,
   border: none;
   outline: none;
   color: #ffffff;
-  background-color: #FF1414;
+  background-color: #ffad14;
 }
 
 .about-text button:hover {
-  box-shadow: 5px 10px 30px rgba(255, 2, 2, 0.336);
+  box-shadow: 5px 10px 30px rgba(255, 145, 2, 0.336);
   background-color: rgb(0, 0, 0);
   transition: all ease 0.3s;
   color: #ffffff;
@@ -462,7 +462,7 @@ nav .menu-btn,
 
 #contact form input[type="submit"] {
   height: 45px;
-  background: linear-gradient(90deg, #FF1414 20%, #f70000);
+  background: linear-gradient(90deg, #ffad14 20%, #e98f09);
   color: #ffffff;
   text-transform: uppercase;
 }
@@ -675,7 +675,7 @@ nav .menu-btn,
     top: 65px;
     left: 0px;
     background-color: #000000;
-    border-bottom: 4px solid #FF1414;
+    border-bottom: 4px solid #ffad14;
     width: 100%;
     padding: 0px;
     margin: 0px;
