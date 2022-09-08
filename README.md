@@ -2,9 +2,10 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://github.com/x" width = "702" height = "auto">
-  <img src = "https://github.com/x" width = "351" height = "auto">
-  <img src = "https://github.com/x" width = "351" height = "auto">
+  <img src = "https://github.com/ecpieritz/gym-spa/blob/main/src/images/print-1.png?raw=true" width = "700" height = "auto">
+  <img src = "https://github.com/ecpieritz/gym-spa/blob/main/src/images/print-2.png?raw=true" width = "700" height = "auto">
+  <img src = "https://github.com/ecpieritz/gym-spa/blob/main/src/images/print-3.png?raw=true" width = "350" height = "auto">
+  <img src = "https://github.com/ecpieritz/gym-spa/blob/main/src/images/print-4.png?raw=true" width = "350" height = "auto">
 </p>
 
 ## 📖 About
